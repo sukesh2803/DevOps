@@ -1,3 +1,5 @@
 mangoes
 apples
 grapes
+kiwi
+pineapple
