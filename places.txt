@@ -1,2 +1,3 @@
 hyderabad
 chennai
+bangalore
